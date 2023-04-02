@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/campaign/static/css/main.1ac5e8c5.css",
+    "main.css": "/campaign/static/css/main.dfc1012e.css",
     "main.js": "/campaign/static/js/main.58fa4956.js",
     "static/media/hero-image.jpg": "/campaign/static/media/hero-image.a1a69c8ac0d69193e839.jpg",
     "index.html": "/campaign/index.html",
-    "main.1ac5e8c5.css.map": "/campaign/static/css/main.1ac5e8c5.css.map",
+    "main.dfc1012e.css.map": "/campaign/static/css/main.dfc1012e.css.map",
     "main.58fa4956.js.map": "/campaign/static/js/main.58fa4956.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ac5e8c5.css",
+    "static/css/main.dfc1012e.css",
     "static/js/main.58fa4956.js"
   ]
 }
