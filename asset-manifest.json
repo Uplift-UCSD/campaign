@@ -1,19 +1,25 @@
 {
   "files": {
     "main.css": "/campaign/static/css/main.aa952301.css",
-    "main.js": "/campaign/static/js/main.5ab3acda.js",
+    "main.js": "/campaign/static/js/main.c46a3433.js",
+    "static/media/8.png": "/campaign/static/media/8.a94796e28efcb544c6ca.png",
+    "static/media/10.png": "/campaign/static/media/10.23055638729b3163f883.png",
+    "static/media/6.jpg": "/campaign/static/media/6.03f9cf5fa5018336141a.jpg",
     "static/media/4.jpg": "/campaign/static/media/4.fd2c1cf9bc5d285778ee.jpg",
     "static/media/3.jpg": "/campaign/static/media/3.6eb532c000c671b43f2d.jpg",
     "static/media/2.jpg": "/campaign/static/media/2.20fc32803b0d0e738d7c.jpg",
+    "static/media/7.jpg": "/campaign/static/media/7.4df45b854beb0b0d8aba.jpg",
     "static/media/1.jpg": "/campaign/static/media/1.13c6397ea7c97d645fbe.jpg",
     "static/media/5.jpg": "/campaign/static/media/5.33f7753bcb0065953170.jpg",
+    "static/media/11.jpeg": "/campaign/static/media/11.719147324b0f19a9ed89.jpeg",
+    "static/media/9.jpeg": "/campaign/static/media/9.561dc5ca209097eebcc0.jpeg",
     "static/media/hero-image.jpg": "/campaign/static/media/hero-image.12b91d8e04c49d6cfb35.jpg",
     "index.html": "/campaign/index.html",
     "main.aa952301.css.map": "/campaign/static/css/main.aa952301.css.map",
-    "main.5ab3acda.js.map": "/campaign/static/js/main.5ab3acda.js.map"
+    "main.c46a3433.js.map": "/campaign/static/js/main.c46a3433.js.map"
   },
   "entrypoints": [
     "static/css/main.aa952301.css",
-    "static/js/main.5ab3acda.js"
+    "static/js/main.c46a3433.js"
   ]
 }
